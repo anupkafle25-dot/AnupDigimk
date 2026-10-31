@@ -1,0 +1,19 @@
+{
+  "source": "https://digimk.framer.website/",
+  "platform": "framer",
+  "captureMode": "html-with-runtime",
+  "generatedAt": "2026-10-31T10:27:28.982Z",
+  "assets": 217,
+  "failedAssets": [
+    {
+      "url": "https://www.youtube.com/img/meh7.png",
+      "message": "HTTP 404"
+    }
+  ],
+  "subpages": 0,
+  "visualValidation": "not-run",
+  "limitations": [
+    "Server-side accounts, payments, search and form processing are not exported.",
+    "Some assets could not be saved; remote fallback URLs may require network access."
+  ]
+}

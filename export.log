@@ -1,0 +1,53 @@
+[10:26:28] [info] Source   : [4mhttps://digimk.framer.website/[24m
+[10:26:28] [info] Output   : [38;2;250;178;131mD:\AnupDigimk\digimk-clone[39m
+[10:26:28] [info] Platform : [38;2;250;178;131mFramer[39m
+[10:26:28] [info] DPR      : [38;2;250;178;131m1[39m
+[10:26:28] [info] Subpages : [38;2;128;128;128mdisabled (pass --subpages to crawl the whole site)[39m
+[10:26:28] [log] Output directory structure created
+[10:26:28] [log] Fetching SSR HTML from https://digimk.framer.website/
+[10:26:28] [ok] SSR HTML fetched (962.8 KB)
+[10:26:28] [log] Launching headless Chromium...
+[10:26:30] [ok] Chromium launched
+[10:26:30] [log] Stealth hardening applied (Chrome 148.0.7778.97)
+[10:26:30] [log] Viewport set to 1440x900 at 1x DPR
+[10:26:30] [log] Blocking 8 tracking domains:
+[10:26:30] [log]   - sentry.io
+[10:26:30] [log]   - www.googletagmanager.com
+[10:26:30] [log]   - connect.facebook.net
+[10:26:30] [log]   - stats.g.doubleclick.net
+[10:26:30] [log]   - google-analytics.com
+[10:26:30] [log]   - events.framer.com
+[10:26:30] [log]   - api.framer.com
+[10:26:30] [log]   - collect.frameranalytics.com
+[10:26:30] [log] Network interception enabled
+[10:26:30] [info] Navigating to https://digimk.framer.website/
+[10:26:30] [ok] Document loaded; waiting for page content and resources
+[10:26:30] [log] Intercepted 0 resources, blocked 0 tracking requests, skipped 0 platform assets
+[10:26:30] [log] Checking DOM-based platform detection...
+[10:26:31] [log] Hydration content found: #main
+[10:26:38] [log] Waiting for font layout and response bodies
+[10:26:48] [log] Response body timeout; remaining assets will use the downloader
+[10:26:48] [log] Resources settled
+[10:26:53] [log] Captured HTML and CSSOM (997.7 KB)
+[10:26:53] [ok] Captured 76 network resources total
+[10:26:53] [log]   CSS: 0 | JS: 31 | Images: 36 | Fonts: 1
+[10:26:53] [log] Browser closed
+[10:26:53] [ok] Queued 105 resource(s) declared in HTML but never requested
+[10:26:53] [log] Starting download of 181 assets and their CSS/HTML dependencies
+[10:27:05] [warn] Download failed: https://www.youtube.com/img/meh7.png - HTTP 404
+[10:27:07] [warn] Downloads complete: 194 succeeded, 76 from cache, 1 failed
+[10:27:18] [ok] Lazy-loaded chunks resolved: 23
+[10:27:18] [log] Starting HTML post-processing...
+[10:27:18] [log] HTML size: 997.7 KB
+[10:27:18] [ok] Index HTML pipeline complete
+[10:27:21] [log] Rewrote URLs in 28 JS/CSS files
+[10:27:21] [log] Rewrote resources in 1 embedded HTML documents
+[10:27:21] [ok] Captured asset URLs rewritten to local paths
+[10:27:28] [ok] Formatted 56/56 JS/MJS files
+[10:27:28] [log] Writing index.html (1009.4 KB)...
+[10:27:28] [ok] index.html written
+[10:27:28] [log] serve.js written
+[10:27:28] [log] package.json written for serve.js
+[10:27:28] [warn] 1 asset(s) could not be saved. See export-report.json.
+[10:27:28] [ok] Output build complete
+[10:27:29] [ok] Export complete!
